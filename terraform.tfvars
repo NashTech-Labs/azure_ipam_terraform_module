@@ -1,0 +1,13 @@
+azure_client_id = ""
+azure_client_secret = ""
+azure_tenant_id = ""
+azure_subscription_id = ""
+ipam_url = ""
+ipam_apiId = ""
+space = ""
+block = ""
+description = ""
+size = 16
+vnet_name = ""
+rg_name = ""
+rg_location = ""
